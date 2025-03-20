@@ -9,7 +9,7 @@
 
 
 ## Overview
-This project is a blockchain-based document verification platform that leverages Ethereum to store and verify documents such as NTA results, RTO driving licenses, course certificates, and university result cards. The platform integrates with Aadhaar for identity verification and ensures that data is stored securely on-chain, making documents tamper-proof and verifiable by authorized parties.
+This project is a blockchain-based document verification platform that leverages Ethereum to store and verify documents such as NTA results, RTO driving licenses, course certificates, and university result cards. The platform integrates with Aadhaar for identity verification and ensures that data is stored securely on-chain, making documents tamper-proof and verifiable by authorized parties .
 
 The platform features two main functionalities:
 1. **Certificate Creation and Management** – For institutions to create and manage certificates.
