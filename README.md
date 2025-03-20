@@ -36,7 +36,7 @@ The Admin Portal is used by institutions to create, manage, and issue certificat
 - **Aadhaar Integration**: The platform fetches data from the Aadhaar system during certificate creation, ensuring the data matches the verified identity.
 
 ### Verifier Portal
-The Verifier Portal is designed for authorized government personnel and includes these functionalities:
+The Verifier Portal is designed for authorized government personnel and includes these functionalities :
 
 - **Secure Login and Signup**: Only government-verified entities can access this portal. Each verifier must authenticate their identity to gain access.
 - **Document Verification**: Verifiers can upload a PDF of the certificate they wish to verify. The system checks if the document matches the on-chain data.
@@ -54,3 +54,4 @@ Ethereum, Solidity, IPFS, Node.js, React, Aadhaar API, Web3.js, OAuth, IPFS, Met
 
 ## How It Fits Into ETHIndia: Ethereum Track
 Our project uses Ethereum’s blockchain to create a secure, tamper-proof, and transparent document verification system. By storing certificate data on-chain and using smart contracts to automate the verification process, we demonstrate the potential of Ethereum for solving real-world problems. The platform aligns with the Ethereum ethos of decentralization, security, and transparency, making it an ideal fit for ETHIndia: Ethereum Track.
+
